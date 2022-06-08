@@ -1,5 +1,5 @@
-{
-  "name": "Slayer-Md",
+
+  "name": "Whatsapp Bot",
   "version": "1.0.0",
   "description": "Multi device wa bot created by Turbo.",
   "main": "index.js",
@@ -18,7 +18,7 @@
     "bot-md",
     "multi-device"
   ],
-  "author": "TURBOHYPER",
+  "author": "THARINDU",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "^4.0.1",
