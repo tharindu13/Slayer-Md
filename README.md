@@ -2,10 +2,10 @@
 This Is A Beta Version Currently On Testing Don't Tell Me It's Not Working 🙂
 
 ## `Deploy`
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/tharindu13
-/
-Slayer-Md
-)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/tharindu13/Slayer-Md
+
+
+
  
 ## `CHANGE SESSION`
 
@@ -29,7 +29,7 @@ https://github.com/DuckyTeam/heroku-buildpack-imagemagick
 ## Developers
   <div align="center">
     
-  [![Toxic-Turbo](https://github.com/TURBOHYPER.png?size=100)](https://github.com/TURBOHYPER)
+  [![Toxic-Turbo](https://github.com/TURBOHYPER.png?size=100)](htps://github.com/TURBOHYPER)
 
 [Toxic-Turbo](https://github.com/TURBOHYPER)        
 Developer, Base, Bug Fixes, Modules
